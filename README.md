@@ -1,2 +1,2 @@
-# PHP Projetct
+# PHP Project
 Studies structure

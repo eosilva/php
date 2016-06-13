@@ -1,2 +1,2 @@
-# php
+# PHP Projetct
 Studies structure
